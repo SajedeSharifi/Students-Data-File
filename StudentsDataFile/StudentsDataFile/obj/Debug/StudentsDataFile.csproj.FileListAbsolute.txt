@@ -1,0 +1,14 @@
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\bin\Debug\students_db.mdf
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\bin\Debug\students_db_log.ldf
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\bin\Debug\StudentsDataFile.exe.config
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\bin\Debug\StudentsDataFile.exe
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\bin\Debug\StudentsDataFile.pdb
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.csproj.AssemblyReference.cache
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.Form1.resources
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.Properties.Resources.resources
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.csproj.GenerateResource.cache
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.csproj.CoreCompileInputs.cache
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.exe
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.pdb
+C:\Users\Sajede\source\repos\StudentsDataFile\StudentsDataFile\obj\Debug\StudentsDataFile.Search.resources
